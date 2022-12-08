@@ -20,7 +20,7 @@ Installation
 To edit and run locally on your machine
 
 1. Clone the repo:
-git clone https://github.com/clarkjoey/BadBank-three-tier.git
+git clone https://github.com/Truly-K/FullStackBankingApplication
 2. Install NPM packages:
 npm install
 3. Run the Node server
